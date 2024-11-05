@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://opexiito.github.io/Bai/sitemap_index.txt
+Sitemap: https://opexiito.github.io/Hwf/sitemap_index.txt
+Sitemap: https://opexiito.github.io/LTF/sitemap_index.txt
+Sitemap: https://opexiito.github.io/cZM/sitemap_index.txt
